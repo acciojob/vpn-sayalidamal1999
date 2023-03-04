@@ -10,6 +10,7 @@ public enum CountryName {
     private final String code;
 
     private CountryName(String s) {
+
         code = s;
     }
 
